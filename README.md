@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/christian561-gel-mcp-server-badge.png)](https://mseep.ai/app/christian561-gel-mcp-server)
+
 # Gel Database MCP Server 
 
 A TypeScript-based Model Context Protocol (MCP) server designed to streamline Gel database operations with EdgeQL queries. This project provides Tools for LLM Agents (Cursor Agent, Claude Code, etc) to automate learning about your schema, and writing, validating, and executing database queries. Easily interact with your Gel database through natural language. Vibe coders rejoice! 
