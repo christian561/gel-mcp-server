@@ -2,6 +2,9 @@
 
 A TypeScript-based Model Context Protocol (MCP) server designed to streamline Gel database operations with EdgeQL queries. This project provides Tools for LLM Agents (Cursor Agent, Claude Code, etc) to automate learning about your schema, and writing, validating, and executing database queries. Easily interact with your Gel database through natural language. Vibe coders rejoice! 
 
+<a href="https://glama.ai/mcp/servers/@christian561/gel-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@christian561/gel-mcp-server/badge" alt="Gel Database Server MCP server" />
+</a>
 
 Note: Query generation is not included since LLMs can write more flexible queries. Tested this with Cursor agent using Claude-3.7-sonnet-thinking and had good results after providing Gel docs by linking the relevant webpages. 
 
