@@ -1,5 +1,6 @@
 # Gel Database MCP Server [Unofficial/Old]
 This was created before Gel had an official MCP server which is a lot easier to setup. Leaving this one up though since it was an example of an MCP server I made.
+Official one here: https://github.com/geldata/gel-mcp
 
 A TypeScript-based Model Context Protocol (MCP) server designed to streamline Gel database operations with EdgeQL queries. This project provides Tools for LLM Agents (Cursor Agent, Claude Code, etc) to automate learning about your schema, and writing, validating, and executing database queries. Easily interact with your Gel database through natural language. Vibe coders rejoice! 
 
